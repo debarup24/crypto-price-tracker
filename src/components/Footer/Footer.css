@@ -1,0 +1,15 @@
+.footer {
+    text-align: center;
+    margin: auto;
+    max-width: 80%;
+    border-top: 1px solid #989898;
+    padding: 20px 0px;
+    font-size: 12px;
+    font-weight: 200 ;
+}
+.footer p a{
+    font-size: 15px;
+    font-weight: 300;
+    padding: 1px;
+    margin: 1px;
+}
