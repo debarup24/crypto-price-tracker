@@ -40,8 +40,15 @@ const Navbar = () => {
           {" "}
           <li>Home</li>{" "}
         </Link>
-        <li>Features</li>
-        <li>Pricing</li>
+        <Link to={"/features"}>
+          {" "}
+          <li>Features</li>{" "}
+        </Link>
+
+        <Link to={"/about"}>
+          {" "}
+          <li>About</li>{" "}
+        </Link>
         <li>Blog</li>
         <li>Contact</li>
       </ul>
