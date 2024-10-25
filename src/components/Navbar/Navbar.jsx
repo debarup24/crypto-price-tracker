@@ -49,7 +49,10 @@ const Navbar = () => {
           {" "}
           <li>About</li>{" "}
         </Link>
-        <li>Blog</li>
+        <Link to={"/blog"}>
+          {" "}
+          <li>Blog</li>{" "}
+        </Link>
         <li>Contact</li>
       </ul>
 
