@@ -26,7 +26,7 @@ const About = () => {
           <br /> <br />
           Our aim is to become the most comprehensive data provider for the open
           financial market — which we believe will be facilitated by blockchain.
-          <br /> <br /> — Thanks, Team CryptoTracker
+          <br /> <br /> <br /> — Thanks, Team CryptoTracker
         </p>
       </div>
     </div>
